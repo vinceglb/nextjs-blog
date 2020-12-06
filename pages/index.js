@@ -25,6 +25,8 @@ export default function Home({ allPostsData }) {
           Je m'appelle Vincent et voici mon histoire. Depuis que je suis petit,
           de nombreux pouvoir me sont accordés. Il est facile pour moi d'être le
           meilleur car en effet c'est le cas.
+
+          Salut, je suis un test. J'espère que ça va ✨🚀🎃
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this in{" "}
